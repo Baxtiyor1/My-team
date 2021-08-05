@@ -1757,6 +1757,7 @@ ul {
 }
 
 .contact__input {
+  outline: none;
   width: 540px;
   background-color: #014E56;
   border: transparent;
